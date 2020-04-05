@@ -5,8 +5,8 @@ Bir kabın içine 3 yumurta kırın, 300 gr toz şeker koyun. Bunları iyice kar
 Crack 3 eggs in a bowl and add 1 glass of sugar. Mix these 2 ingredients well. Then pour 1 glass of milk and 1 glass of oil. Mix all these again. After that add 250 grams of flour, 1 packet of baking powder (10 gr) and 20 grams of cacao. Then mix again. Take a tray, oil it and pour the mixture. Finally bake it for half an hour.
 
 ### Kalori hesaplaması
-3 yumurta, 300 gr şeker, 1 bardak süt, 1 bardak yağ, 250 gr un, 10 gr kabartma tozu, 20 gr kakao. 
-1 su bardağı = 200 ml = 200 cm3
+3 yumurta, 300 gr şeker, 1 bardak süt, 1 bardak yağ, 250 gr un, 10 gr kabartma tozu, 20 gr kakao.                                          
+1 su bardağı = 200 ml = 200 cm3                                                                                                            
 Sütün yoğunluğu: 1 gr/cm3       Sütün kütlesi: 200 gr                                                                                      
 Yağın yoğunluğu: 0,9 gr/cm3     Yağın kütlesi: 180 gr
 3 yumurta ≈ 40 gr
