@@ -16,4 +16,5 @@ Toplam kalori: 3760 kcal
 **100 gramındaki kalori: 376 kcal**
 
 ## Kitle endeksi
-ftfdtdbfytg
+| Kişiler | Kütle (kg) | Boy (m) | Kitle endeksi (kg/m^2) | Durumu |
+|------------|----------|-----------|-----------|------------|
