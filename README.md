@@ -17,3 +17,4 @@ Toplam kalori: 3760 kcal
 
 ## Kitle endeksi
 | Kişiler | Kütle (kg) | Boy (m) | Kitle endeksi (kg/m^2) | Durumu |
+|--------d----|-----dsa-----|--dsa---------|----dasd-------|--------ssda----|
