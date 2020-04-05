@@ -11,8 +11,8 @@ Sütün yoğunluğu: 1 gr/cm3       Sütün kütlesi: 200 gr
 Yağın yoğunluğu: 0,9 gr/cm3     Yağın kütlesi: 180 gr                                                                                    
 3 yumurta ≈ 40 gr                                                                                                                        
 Toplam kütle: 1000 gr                                                                                                                    
-Yumurta: 60 kcal      Şeker: 1150 kcal     Süt: 90 kcal      Yağ: 1500 kcal    Un: 900 kcal     Kabartma tozu: 10 kcal       Kakao: 50 kcal
-Toplam kalori: 3760 kcal
+Yumurta: 60 kcal      Şeker: 1150 kcal     Süt: 90 kcal      Yağ: 1500 kcal    Un: 900 kcal     Kabartma tozu: 10 kcal       Kakao: 50 kcal                                                                                                                                      
+Toplam kalori: 3760 kcal                                                                                                                  
 **100 gramındaki kalori: 376 kcal**
 
 ## Kitle endeksi
